@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\bin\Debug\netcoreapp3.1\Numbers1.exe
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\bin\Debug\netcoreapp3.1\Numbers1.deps.json
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\bin\Debug\netcoreapp3.1\Numbers1.runtimeconfig.json
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\bin\Debug\netcoreapp3.1\Numbers1.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\bin\Debug\netcoreapp3.1\Numbers1.dll
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\bin\Debug\netcoreapp3.1\Numbers1.pdb
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\obj\Debug\netcoreapp3.1\Numbers1.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\obj\Debug\netcoreapp3.1\Numbers1.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\obj\Debug\netcoreapp3.1\Numbers1.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\obj\Debug\netcoreapp3.1\Numbers1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\obj\Debug\netcoreapp3.1\Numbers1.dll
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\obj\Debug\netcoreapp3.1\Numbers1.pdb
+C:\Users\Admin\Downloads\Code\Chapter02\Numbers1\obj\Debug\netcoreapp3.1\Numbers1.genruntimeconfig.cache

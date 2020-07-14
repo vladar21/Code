@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.exe
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.deps.json
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.json
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.dll
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\bin\Debug\netcoreapp3.1\Arguments.pdb
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.dll
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.pdb
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Code\Chapter02\Arguments\obj\Debug\netcoreapp3.1\Arguments.csprojAssemblyReference.cache

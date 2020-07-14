@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+C:\Users\Admin\Downloads\Code\Chapter02\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache
