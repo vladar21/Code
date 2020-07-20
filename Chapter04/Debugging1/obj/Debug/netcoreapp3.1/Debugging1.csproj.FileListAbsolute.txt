@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\bin\Debug\netcoreapp3.1\Debugging1.exe
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\bin\Debug\netcoreapp3.1\Debugging1.deps.json
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\bin\Debug\netcoreapp3.1\Debugging1.runtimeconfig.json
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\bin\Debug\netcoreapp3.1\Debugging1.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\bin\Debug\netcoreapp3.1\Debugging1.dll
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\bin\Debug\netcoreapp3.1\Debugging1.pdb
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\obj\Debug\netcoreapp3.1\Debugging1.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\obj\Debug\netcoreapp3.1\Debugging1.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\obj\Debug\netcoreapp3.1\Debugging1.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\obj\Debug\netcoreapp3.1\Debugging1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\obj\Debug\netcoreapp3.1\Debugging1.dll
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\obj\Debug\netcoreapp3.1\Debugging1.pdb
+C:\Users\Admin\Downloads\Code\Chapter04\Debugging1\obj\Debug\netcoreapp3.1\Debugging1.genruntimeconfig.cache

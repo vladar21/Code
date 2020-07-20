@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Code1\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.exe
+C:\Users\Admin\Downloads\Code1\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.deps.json
+C:\Users\Admin\Downloads\Code1\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.json
+C:\Users\Admin\Downloads\Code1\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code1\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.dll
+C:\Users\Admin\Downloads\Code1\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.pdb
+C:\Users\Admin\Downloads\Code1\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Code1\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code1\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code1\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code1\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.dll
+C:\Users\Admin\Downloads\Code1\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.pdb
+C:\Users\Admin\Downloads\Code1\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.genruntimeconfig.cache

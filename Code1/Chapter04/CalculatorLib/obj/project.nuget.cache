@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VN6y+yZ6JdsvJrTWPD2/aGamYz754w0/xzM8CmdCEoxXhBM/8oasaDrr5nV//B/JyYJh4qbmr/luyIU4ZR1cCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\Code1\\Chapter04\\CalculatorLib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.0-preview-20200519-01\\microsoft.net.test.sdk.16.7.0-preview-20200519-01.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xunit.runner.console\\2.4.1\\xunit.runner.console.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
