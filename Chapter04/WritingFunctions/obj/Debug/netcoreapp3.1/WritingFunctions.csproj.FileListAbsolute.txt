@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Vlad\Downloads\Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.exe
 C:\Users\Vlad\Downloads\Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.deps.json
 C:\Users\Vlad\Downloads\Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.json
@@ -9,3 +10,18 @@ C:\Users\Vlad\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\
 C:\Users\Vlad\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfo.cs
 C:\Users\Vlad\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.dll
 C:\Users\Vlad\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.pdb
+=======
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.exe
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.deps.json
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.json
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.dll
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.pdb
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.dll
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.pdb
+C:\Users\Admin\Downloads\Code\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.genruntimeconfig.cache
+>>>>>>> 7e7918d58bcd93d6c768b1734bf1a28e6f2cc769
