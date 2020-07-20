@@ -27,27 +27,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vlad\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vlad\\Downloads\\Code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "C:\\Users\\Vlad\\Downloads\\Code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
-      "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vlad\\Downloads\\Code\\Chapter05\\PeopleApp\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\Code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\Code\\Chapter05\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -59,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Vlad\\Downloads\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
-              "projectPath": "C:\\Users\\Vlad\\Downloads\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj"
+            "C:\\Users\\Admin\\Downloads\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Downloads\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj"
             }
           }
         }
