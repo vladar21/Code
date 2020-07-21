@@ -79,6 +79,53 @@ WondersOfTheAncientWorld.MausoleumAtHalicarnassus;
             // деконструкция кортежей
             (string fruitName, int fruitNumber) = p1.GetFruitCS7();
             WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
+
+            WriteLine(p1.SayHello());
+            WriteLine(p1.SayHello("Emily"));
+
+            WriteLine(p1.OptionalParameters());
+
+            WriteLine(p1.OptionalParameters("Jump!", 98.5));
+
+            WriteLine(p1.OptionalParameters(number: 52.7, command: "Hide!"));
+
+            WriteLine(p1.OptionalParameters("Poke!", active: false));
+
+            int a = 10;
+            int b = 20;
+            int c = 30;
+            WriteLine($"Before: a = {a}, b = {b}, c = {c}");
+            p1.PassingParameters(a, ref b, out c);
+            WriteLine($"After: a = {a}, b = {b}, c = {c}");
+
+            // упрощенный синтаксис параметров out в C# 7
+            int d = 10;
+            int e = 20;
+            WriteLine($"Before: d = {d}, e = {e}, f doesn't exist yet!");
+            p1.PassingParameters(d, ref e, out int f);
+            WriteLine($"After: d = {d}, e = {e}, f = {f}");
+
+            var sam = new Person
+            {
+                Name = "Sam",
+                DateOfBirth = new DateTime(1972, 1, 27)
+            };
+            WriteLine(sam.Origin);
+            WriteLine(sam.Greeting);
+            WriteLine(sam.Age);
+
+            sam.FavoriteIceCream = "Chocolate Fudge";
+            WriteLine($"Sam's favorite ice-cream flavor is {sam.FavoriteIceCream}.");
+            sam.FavoritePrimaryColor = "Red";
+            WriteLine($"Sam's favorite primary color is {sam.FavoritePrimaryColor}.");
+
+            sam.Children.Add(new Person { Name = "Charlie" });
+            sam.Children.Add(new Person { Name = "Ella" });
+            WriteLine($"Sam's first child is {sam.Children[0].Name}");
+            WriteLine($"Sam's second child is {sam.Children[1].Name}");
+            WriteLine($"Sam's first child is {sam[0].Name}");
+            WriteLine($"Sam's second child is {sam[1].Name}");
+
         }
     }
 }

@@ -4,7 +4,7 @@ using static System.Console;
 
 namespace Packt.CS7
 {
-    public class Person : object
+    public partial class Person : object
     {
         public string Name;
         public DateTime DateOfBirth;
@@ -56,6 +56,31 @@ namespace Packt.CS7
         public (string Name, int Number) GetNamedFruit()
         {
             return (Name: "Apples", Number: 5);
+        }
+
+        public string SayHello()
+        {
+            return $"{Name} says 'Hello!'";
+        }
+        public string SayHello(string name)
+        {
+            return $"{Name} says 'Hello {name}!'";
+        }
+
+        public string OptionalParameters(string command = "Run!", double number = 0.0, bool active = true)
+        {
+            return $"command is {command}, number is {number}, active is {active}";
+        }
+
+        public void PassingParameters(int x, ref int y, out int z)
+        {
+            // параметры out не могут иметь значение по умолчанию и должны быть
+            // инициализированы в методе
+            z = 99;
+            // инкрементирование каждого параметра
+            x++;
+            y++;
+            z++;
         }
     }
 }
