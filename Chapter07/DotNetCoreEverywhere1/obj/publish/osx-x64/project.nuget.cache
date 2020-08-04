@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2VqzPRFneEB9YwmKnQha7bY1ydZE8DJWP870ucBK5xMGJ81ZQjRy71AAXgRvbTT48tnUxYD4+wtEPfqQrvhqA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Chapter07\\DotNetCoreEverywhere1\\DotNetCoreEverywhere1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.6\\microsoft.netcore.app.host.osx-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

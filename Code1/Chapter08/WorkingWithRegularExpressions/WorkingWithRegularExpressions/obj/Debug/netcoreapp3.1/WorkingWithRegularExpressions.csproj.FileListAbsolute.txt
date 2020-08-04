@@ -1,0 +1,13 @@
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.exe
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.deps.json
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.runtimeconfig.json
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.runtimeconfig.dev.json
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.dll
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\bin\Debug\netcoreapp3.1\WorkingWithRegularExpressions.pdb
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.AssemblyInfo.cs
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.dll
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.pdb
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.genruntimeconfig.cache
+D:\Code\Code1\Chapter08\WorkingWithRegularExpressions\WorkingWithRegularExpressions\obj\Debug\netcoreapp3.1\WorkingWithRegularExpressions.csprojAssemblyReference.cache

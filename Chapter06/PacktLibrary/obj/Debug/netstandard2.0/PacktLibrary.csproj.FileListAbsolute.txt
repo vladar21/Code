@@ -7,3 +7,12 @@ C:\Users\Vlad\Downloads\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\Pac
 C:\Users\Vlad\Downloads\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Vlad\Downloads\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
 C:\Users\Vlad\Downloads\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
+D:\Code\Chapter06\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+D:\Code\Chapter06\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+D:\Code\Chapter06\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+D:\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojAssemblyReference.cache
+D:\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+D:\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+D:\Code\Chapter06\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb

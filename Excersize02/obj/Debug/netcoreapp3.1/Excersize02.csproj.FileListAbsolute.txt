@@ -1,0 +1,13 @@
+D:\Code\Excersize02\obj\Debug\netcoreapp3.1\Excersize02.csprojAssemblyReference.cache
+D:\Code\Excersize02\obj\Debug\netcoreapp3.1\Excersize02.AssemblyInfoInputs.cache
+D:\Code\Excersize02\obj\Debug\netcoreapp3.1\Excersize02.AssemblyInfo.cs
+D:\Code\Excersize02\obj\Debug\netcoreapp3.1\Excersize02.csproj.CoreCompileInputs.cache
+D:\Code\Excersize02\bin\Debug\netcoreapp3.1\Excersize02.exe
+D:\Code\Excersize02\bin\Debug\netcoreapp3.1\Excersize02.deps.json
+D:\Code\Excersize02\bin\Debug\netcoreapp3.1\Excersize02.runtimeconfig.json
+D:\Code\Excersize02\bin\Debug\netcoreapp3.1\Excersize02.runtimeconfig.dev.json
+D:\Code\Excersize02\bin\Debug\netcoreapp3.1\Excersize02.dll
+D:\Code\Excersize02\bin\Debug\netcoreapp3.1\Excersize02.pdb
+D:\Code\Excersize02\obj\Debug\netcoreapp3.1\Excersize02.dll
+D:\Code\Excersize02\obj\Debug\netcoreapp3.1\Excersize02.pdb
+D:\Code\Excersize02\obj\Debug\netcoreapp3.1\Excersize02.genruntimeconfig.cache

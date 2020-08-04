@@ -1,0 +1,13 @@
+D:\Code\Chapter07\DotNetCoreEverywhere1\bin\Debug\netcoreapp3.1\DotNetCoreEverywhere1.exe
+D:\Code\Chapter07\DotNetCoreEverywhere1\bin\Debug\netcoreapp3.1\DotNetCoreEverywhere1.deps.json
+D:\Code\Chapter07\DotNetCoreEverywhere1\bin\Debug\netcoreapp3.1\DotNetCoreEverywhere1.runtimeconfig.json
+D:\Code\Chapter07\DotNetCoreEverywhere1\bin\Debug\netcoreapp3.1\DotNetCoreEverywhere1.runtimeconfig.dev.json
+D:\Code\Chapter07\DotNetCoreEverywhere1\bin\Debug\netcoreapp3.1\DotNetCoreEverywhere1.dll
+D:\Code\Chapter07\DotNetCoreEverywhere1\bin\Debug\netcoreapp3.1\DotNetCoreEverywhere1.pdb
+D:\Code\Chapter07\DotNetCoreEverywhere1\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere1.csprojAssemblyReference.cache
+D:\Code\Chapter07\DotNetCoreEverywhere1\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere1.AssemblyInfoInputs.cache
+D:\Code\Chapter07\DotNetCoreEverywhere1\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere1.AssemblyInfo.cs
+D:\Code\Chapter07\DotNetCoreEverywhere1\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere1.csproj.CoreCompileInputs.cache
+D:\Code\Chapter07\DotNetCoreEverywhere1\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere1.dll
+D:\Code\Chapter07\DotNetCoreEverywhere1\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere1.pdb
+D:\Code\Chapter07\DotNetCoreEverywhere1\obj\Debug\netcoreapp3.1\DotNetCoreEverywhere1.genruntimeconfig.cache

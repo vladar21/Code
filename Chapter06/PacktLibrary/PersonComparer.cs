@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Packt.CS7
+namespace Packt.CS6
 {
     public class PersonComparer : IComparer<Person>
     {

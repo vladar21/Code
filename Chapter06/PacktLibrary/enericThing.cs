@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Packt.CS7
+namespace Packt.CS6
 {
     public class GenericThing<T> where T : IComparable, IFormattable
     {
