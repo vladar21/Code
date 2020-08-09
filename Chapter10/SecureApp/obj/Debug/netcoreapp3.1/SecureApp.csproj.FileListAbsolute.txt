@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.exe
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.deps.json
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.runtimeconfig.json
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.dll
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\SecureApp.pdb
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.csproj.CopyComplete
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.dll
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.pdb
+C:\Users\Admin\Downloads\Code\Chapter10\SecureApp\obj\Debug\netcoreapp3.1\SecureApp.genruntimeconfig.cache

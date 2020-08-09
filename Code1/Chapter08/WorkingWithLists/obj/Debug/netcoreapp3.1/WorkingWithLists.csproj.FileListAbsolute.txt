@@ -1,0 +1,13 @@
+D:\Code\Code1\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.exe
+D:\Code\Code1\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.deps.json
+D:\Code\Code1\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.json
+D:\Code\Code1\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.dev.json
+D:\Code\Code1\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.dll
+D:\Code\Code1\Chapter08\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.pdb
+D:\Code\Code1\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.csprojAssemblyReference.cache
+D:\Code\Code1\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfoInputs.cache
+D:\Code\Code1\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfo.cs
+D:\Code\Code1\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.csproj.CoreCompileInputs.cache
+D:\Code\Code1\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.dll
+D:\Code\Code1\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.pdb
+D:\Code\Code1\Chapter08\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.genruntimeconfig.cache

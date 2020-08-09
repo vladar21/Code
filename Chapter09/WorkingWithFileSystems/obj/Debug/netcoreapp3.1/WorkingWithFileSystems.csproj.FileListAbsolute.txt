@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.exe
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.deps.json
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.runtimeconfig.json
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.dll
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp3.1\WorkingWithFileSystems.pdb
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.dll
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.pdb
+C:\Users\Admin\Downloads\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp3.1\WorkingWithFileSystems.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Code\Code1\Chapter06new\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.exe
+D:\Code\Code1\Chapter06new\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.deps.json
+D:\Code\Code1\Chapter06new\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.json
+D:\Code\Code1\Chapter06new\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.dev.json
+D:\Code\Code1\Chapter06new\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.dll
+D:\Code\Code1\Chapter06new\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.pdb
+D:\Code\Code1\Chapter06new\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csprojAssemblyReference.cache
+D:\Code\Code1\Chapter06new\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfoInputs.cache
+D:\Code\Code1\Chapter06new\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfo.cs
+D:\Code\Code1\Chapter06new\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CoreCompileInputs.cache
+D:\Code\Code1\Chapter06new\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.dll
+D:\Code\Code1\Chapter06new\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.pdb
+D:\Code\Code1\Chapter06new\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.genruntimeconfig.cache

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using static System.Console;
-namespace Packt.CS7
+namespace Packt.CS6
 {
     public partial class Person : IComparable<Person>
     {
@@ -10,12 +10,12 @@ namespace Packt.CS7
         public string Name;
         public DateTime DateOfBirth;
         public List<Person> Children = new List<Person>();
-        
+
 
         // методы
         public void WriteToConsole()
         {
-            WriteLine($"{Name} was born on {DateOfBirth:dddd, d MMMM yyyy}");         
+            WriteLine($"{Name} was born on {DateOfBirth:dddd, d MMMM yyyy}");
         }
 
         // методы "размножения"
@@ -54,7 +54,7 @@ namespace Packt.CS7
             {
                 if (localNumber < 1) return 1;
                 return localNumber * localFactorial(localNumber - 1);
-            }            
+            }
         }
 
         // событие
@@ -79,6 +79,24 @@ namespace Packt.CS7
         public int CompareTo(Person other)
         {
             return Name.CompareTo(other.Name);
+        }
+
+        // переопределенные методы
+        public override string ToString()
+        {
+            return $"{Name} is a {base.ToString()}";
+        }
+
+        public void TimeTravel(DateTime when)
+        {
+            if (when <= DateOfBirth)
+            {
+                throw new PersonException("If you travel back in time to a date earlier than your own birth then the universe will explode!");
+            }
+            else
+            {
+                WriteLine($"Welcome to {when:yyyy}!");
+            }
         }
     }
 }

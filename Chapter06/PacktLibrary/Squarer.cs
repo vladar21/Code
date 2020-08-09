@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-namespace Packt.CS7
+namespace Packt.CS6
 {
     public static class Squarer
     {

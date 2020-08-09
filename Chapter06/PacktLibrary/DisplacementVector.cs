@@ -1,4 +1,4 @@
-﻿namespace Packt.CS7
+﻿namespace Packt.CS6
 {
     public struct DisplacementVector
     {

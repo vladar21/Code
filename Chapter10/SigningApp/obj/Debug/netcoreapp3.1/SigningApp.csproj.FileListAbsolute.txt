@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.exe
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.deps.json
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.runtimeconfig.json
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.dll
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.pdb
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csproj.CopyComplete
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.dll
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.pdb
+C:\Users\Admin\Downloads\Code\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.genruntimeconfig.cache

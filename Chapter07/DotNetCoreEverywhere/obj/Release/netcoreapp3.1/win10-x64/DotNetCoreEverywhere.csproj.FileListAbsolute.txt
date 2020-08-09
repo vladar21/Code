@@ -1,0 +1,4 @@
+D:\Code\Chapter07\DotNetCoreEverywhere\obj\Release\netcoreapp3.1\win10-x64\DotNetCoreEverywhere.csprojAssemblyReference.cache
+D:\Code\Chapter07\DotNetCoreEverywhere\obj\Release\netcoreapp3.1\win10-x64\DotNetCoreEverywhere.AssemblyInfoInputs.cache
+D:\Code\Chapter07\DotNetCoreEverywhere\obj\Release\netcoreapp3.1\win10-x64\DotNetCoreEverywhere.AssemblyInfo.cs
+D:\Code\Chapter07\DotNetCoreEverywhere\obj\Release\netcoreapp3.1\win10-x64\DotNetCoreEverywhere.csproj.CoreCompileInputs.cache

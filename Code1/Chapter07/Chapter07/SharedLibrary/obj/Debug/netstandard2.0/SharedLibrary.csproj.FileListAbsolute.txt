@@ -1,0 +1,8 @@
+D:\Code\Code1\Chapter07\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+D:\Code\Code1\Chapter07\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+D:\Code\Code1\Chapter07\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+D:\Code\Code1\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Code\Code1\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+D:\Code\Code1\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Code\Code1\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.dll
+D:\Code\Code1\Chapter07\Chapter07\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\bin\Debug\netcoreapp3.1\LINQingInParallel.exe
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\bin\Debug\netcoreapp3.1\LINQingInParallel.deps.json
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\bin\Debug\netcoreapp3.1\LINQingInParallel.runtimeconfig.json
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\bin\Debug\netcoreapp3.1\LINQingInParallel.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\bin\Debug\netcoreapp3.1\LINQingInParallel.dll
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\bin\Debug\netcoreapp3.1\LINQingInParallel.pdb
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\obj\Debug\netcoreapp3.1\LINQingInParallel.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\obj\Debug\netcoreapp3.1\LINQingInParallel.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\obj\Debug\netcoreapp3.1\LINQingInParallel.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\obj\Debug\netcoreapp3.1\LINQingInParallel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\obj\Debug\netcoreapp3.1\LINQingInParallel.dll
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\obj\Debug\netcoreapp3.1\LINQingInParallel.pdb
+C:\Users\Admin\Downloads\Code\Chapter12\LINQingInParallel\obj\Debug\netcoreapp3.1\LINQingInParallel.genruntimeconfig.cache
