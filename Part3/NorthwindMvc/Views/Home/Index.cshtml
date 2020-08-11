@@ -28,7 +28,7 @@
             if (c == 0)
             {
                 <div class="item active">
-                    <img src="~/images/category @(Model.Categories[c].CategoryID).jpeg" alt="@Model.Categories[c].CategoryName" class="img-responsive" />
+                    <img src="~/images/category@(Model.Categories[c].CategoryID).jpeg" alt="@Model.Categories[c].CategoryName" class="img-responsive" />
                     <div class="carousel-caption" role="option">
                         <p>
                             @Model.Categories[c].Description 
@@ -61,10 +61,8 @@
               aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
     </a>
-    <a class="right carousel-control" href="#myCarousel" role="button"
-       data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true">
-        </span>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
 </div>
@@ -80,9 +78,7 @@
                 @foreach (var item in @Model.Products)
                 {
                     <li>
-                        <a asp-controller="Home"
-                           asp-action="ProductDetail"
-                           asp-route-id="@item.ProductID">
+                        <a asp-controller="Home" asp-action="ProductDetail" asp-route-id="@item.ProductID">
                             @item.ProductName costs
                             @item.UnitPrice.Value.ToString("C")
                         </a>
